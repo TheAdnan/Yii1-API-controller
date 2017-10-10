@@ -1,5 +1,5 @@
-# Yii1 API controller
-_Template for API controller in Yii 1_
+# Yii1 REST API controller
+_Template for REST API controller in Yii 1_
 
 ## Usage
 
